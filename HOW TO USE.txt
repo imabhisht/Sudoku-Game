@@ -1,0 +1,21 @@
+##HOW TO PLAY##
+
+1)Click Box and enter Number
+2)If you cant solve, Just press "Space_Bar" and see the Magic. Algorithm will 
+automatically solve the Sudoku :)
+
+##INSTRUCTION##
+
+The 'generate.py' contains Sudoku[easy] Puzzle. I have also mention an insane
+level Sudoku Puzzle. 
+
+To Edit/Add Custom Solveable Sudoku Puzzle, Edit the List(alpha1)  with Commas
+Seperated with Values Mention. Each row represent seperate List in 'alpha1'.
+
+Vacant or Empty Box of Sudoku Puzzle is mentioned as 'int(0)' on the List.
+
+Warning:- Mantain the List(alpha1) with all Commas. All values are in INTEGER
+form so dont add Character (or) use str(x).
+
+Thanks......
+Abhisht 
